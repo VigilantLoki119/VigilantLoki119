@@ -1,8 +1,5 @@
 Here lies all of my secret (well not much of a secret if I am sharing on github) documents relating to computers and coding! Feel free to browse and follow me if you like! 
 
-You can reach out to me:
-https://img.shields.io/badge/email-ronitbiswas@live.com-green
-
 <!--
 **VigilantLoki119/VigilantLoki119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
