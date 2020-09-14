@@ -1,7 +1,5 @@
 Here lies all of my secret (well not much of a secret if I am sharing on github) documents relating to computers and coding! Feel free to browse and follow me if you like! 
 
-Contact me if you want! https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FVigilantLoki119%2FVigilantLoki119
-
 
 <!--
 **VigilantLoki119/VigilantLoki119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
